@@ -1,2 +1,2 @@
 # docker-snippets
-Snippets relavent with docker.
+Snippets relevent to docker.
